@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate FullStack Developer from India<br><br>🔭 I’m currently working on <br><br>🌱 I’m always eager to take on new challenges with a passion for learning<br><br>️‍🔥  I am dedicated to delivering high-quality results.<br><br>📫 How to reach me yashsinghal9457@gmail.com<br><br>⚡ Fun fact I am Funny
+A passionate FullStack Developer from India<br><br>🔭 I’m currently working on FullStack Development<br><br>🌱 I’m always eager to take on new challenges with a passion for learning<br><br>️‍🔥  I am dedicated to delivering high-quality results.<br><br>📫 How to reach me yashsinghal9457@gmail.com<br><br>⚡ Fun fact I am Funny
 
 
 ## 🌐 Socials:
